@@ -4,7 +4,7 @@ This software is a "guess the numbers" game, allowing you to find the hidden num
 
 I wrote this program to get a deeper understanding of the java language and practice my learning skills.
 
-[Software Demo Video]((https://youtu.be/ssyQUZBezfw))
+[Software Demo Video](https://youtu.be/ssyQUZBezfw)
 
 # Development Environment
 
